@@ -1,7 +1,8 @@
 # Monthly-Sales-Dashboard
 Comparing monthly sales of products for Superstore.
 
-![image](https://user-images.githubusercontent.com/125233093/221666312-95de0355-7767-43ab-8c05-7d6b1f7404c7.png)
+![image](https://user-images.githubusercontent.com/125233093/221696180-4a0423bd-b150-4278-938b-44cd6aa63fcf.png)
+
 
 The dashboard displays KPIs such as sales, profits, average discount, and quanity of products sold in the selected months. 
 
